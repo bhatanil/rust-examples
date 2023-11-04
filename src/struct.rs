@@ -11,4 +11,6 @@ fn main() {
 
     // Pretty print
     println!("{:#?}", peter);
+    println!("{:#?}", peter.name);
+    println!("{:#?}", peter.age);
 }
